@@ -8,6 +8,6 @@ I'm a data researcher working in Chicago. I did my BA and MSc. in Political Scie
 
 Hopefully I'll bring a comparative perspective from my background in international politics, but my main goal here is to write political critique on topics that I'm not seeing in other places.
 
-### Contact me
+## Contact me
 
 [nathanrosswilson@gmail.com](mailto:nathanrosswilson@gmail.com)

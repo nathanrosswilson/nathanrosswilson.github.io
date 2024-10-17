@@ -204,6 +204,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+  font-family: sans-serif;
   font-size: 16px;
 
   @include mobile {
@@ -264,6 +265,7 @@ nav {
 
   .comments {
     margin-top: 10px;
+    font-family: sans-serif;
   }
 
   .read-more {
