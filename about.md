@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a data researcher working in Chicago. I did my BA and MSc. in Political Science and International Politics respectively, so I've been learning about and thinking about government, policy, and politics for a long time. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hopefully I'll bring a comparative perspective from my background in international politics, but my main goal here is to write political critique on topics that I'm not seeing in other places.
 
 ### Contact me
 
