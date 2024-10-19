@@ -3,6 +3,8 @@ layout: post
 title: When wasn't the Supreme Court in a legitimacy crisis?
 ---
 
+![Supreme Court building]({{ site.baseurl }}/images/Supreme_Court.jpg)
+
 I’m a bit frustrated with the current discourse around the failings of the Supreme Court. I try quite hard to not be the kind of person that says, *things were always bad, why is everyone just coming around to it now?*, but the Supreme Court has been in a legitimacy crisis for as long as I’ve been alive.
 
 Particularly when it comes to the mystique of authority that surrounds the Court, there is a persistant sense that these political appointees are in some way non-political. It’s simply not true and our institutions: journalists, politicians, etc. are just falling for the rhetoric of impartiality invented by the legal profession.

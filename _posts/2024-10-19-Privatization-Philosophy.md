@@ -3,6 +3,8 @@ layout: post
 title: The philosophy of privatization is killing public services
 ---
 
+![USPS truck]({{ site.baseurl }}/images/amtrak-station.jpg)
+
 In the era of Mitt Romney Republicans, it was very popular for right leaning politicians to claim they would be able to run the government like a business. Thankfully, this sales pitch has started to lose its luster in recent years. Most people recognize that the government isn’t a business and being a private equity manager doesn’t automatically make you a successful governor.
 
 However, the broader philosophy of privatization is more persistent. Commentators think about public investments in terms of returns, and focus deeply on the efficiency of those services. It’s even a cliche to say that the government is run poorly and full of waste.
